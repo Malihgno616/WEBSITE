@@ -1,6 +1,6 @@
 # WEBSITE
 
 <p>
-[Meu primeiro Site](https://malihgno616.github.io/WEBSITE/){:Target="_blank"}
- 
+<a href="https://malihgno616.github.io/WEBSITE/">Clique aqui</a>
+para visitar o meu primeiro site.
 </p>
